@@ -1,3 +1,3 @@
-<h1>spring-mvc-test</h1>
+<b>Spring MVC Test</h1>
 
 A blog about the new spring-mvc-test module and its usefulness.
